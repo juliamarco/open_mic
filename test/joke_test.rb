@@ -33,5 +33,5 @@ class JokeTest < Minitest::Test
   assert_equal "Because his mother was in a jam.", joke.punchline
   end
 
-  
+
 end
